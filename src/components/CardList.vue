@@ -1,30 +1,35 @@
 <template>
   <div id="app">
     <v-card class="pa-5" align="left" rounded="true" id="rounded-card">
-      <v-list-item two-line>
-        <v-list-item-content>
-          <v-list-item-title class="text-h5 mb-1">
-            Fri, 10 Apr - Mon, 13 Apr
-          </v-list-item-title>
-          <v-list-item-subtitle>0 days of annual leave</v-list-item-subtitle>
-        </v-list-item-content>
-      </v-list-item>
-      <v-divider />
-      <v-list-item two-line>
-        <v-list-item-content>
-          <v-list-item-title class="text-h5 mb-1">
-            Thu, 25 Dec - Sun, 28 Dec
-          </v-list-item-title>
-          <v-list-item-subtitle>0 days of annual leave</v-list-item-subtitle>
-        </v-list-item-content>
-      </v-list-item>
+      <v-list-item-group>
+        <template v-for="(item, index) in formatedDateIntervals">
+          <v-list-item two-line :key="index">
+            <v-list-item-content>
+              <v-list-item-title class="text-h5 mb-1">
+                {{ item.initDate }} - {{ item.endDate }}
+              </v-list-item-title>
+              <v-list-item-subtitle>{{ item.days }}</v-list-item-subtitle>
+            </v-list-item-content>
+          </v-list-item>
+          <v-divider
+            v-if="index < formatedDateIntervals.length - 1"
+            :key="`${index}-divider`"
+          ></v-divider>
+        </template>
+      </v-list-item-group>
     </v-card>
   </div>
 </template>
 
 <script lang="ts">
 import { Component, Vue } from "vue-property-decorator";
+import { mapGetters } from "vuex";
 
-@Component({})
+@Component({
+  name: "CardList",
+  computed: {
+    ...mapGetters(["formatedDateIntervals"]),
+  },
+})
 export default class CardList extends Vue {}
 </script>

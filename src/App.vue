@@ -20,6 +20,7 @@ export default Vue.extend({
 </script>
 
 <style>
+/* keep button text capitalization */
 * {
   text-transform: none !important;
 }
