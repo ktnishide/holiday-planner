@@ -54,7 +54,7 @@ function getBestDates(vacationDays: number, filter: string): DateIntervals[] {
   return datesArray;
 }
 
-/** Prepare the data to be processed (search timeframe and jurisdiction) 
+/** Prepare the data to be processed (by search period and jurisdiction) 
    * @param start starting date of search period.
    * @param end ending date of search period.
    * @param filter jurisdiction to filter holidays.

@@ -5,12 +5,12 @@ Using `VUE`, `VUEX`, `TYPESCRIPT` and something kinda catterpilar method, slidin
 
 > ### Definition
 > 
-> You are planning your next holiday for 2020, and want to > know what is the best time to take it in
-> terms of maximizing the length of the time away while > minimizing your annual leave balance
+> You are planning your next holiday for 2020, and want to know what is the best time to take it in
+> terms of maximizing the length of the time away while minimizing your annual leave balance
 > with your current employer.
 > 
 > Build a simple interface where the user can input the > duration of the holiday (in number of days)
-> and the system should provide you with the best option(s) > for 2020.
+> and the system should provide you with the best option(s) for 2020.
 > 
 > - A holiday is a consecutive number of days duration >= 4 > and <= 20 days.
 > - The year period starts on the 1st of Jan 2020 and ends > on 31st of Dec 2020.
@@ -81,6 +81,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## Questions/Assumptions
 1 - I used Vuetify as an UI component framework might be desirable;
 
-2 - I didn't typed store due to setup complexity;
+2 - I didn't type store due to setup complexity;
 
 3 - I assumed and hardcoded jurisdiction "qld";
