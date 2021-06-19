@@ -1,0 +1,709 @@
+[
+  {
+    "date":20200101,
+    "Holiday Name": "New Year's Day",
+    "Information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+    "More Information": "https://www.cmtedd.act.gov.au/communication/holidays",
+    "jurisdiction":"act"
+  },
+  {
+    "date":20200127,
+    "Holiday Name": "Australia Day",
+    "Information": "Always celebrated on 26 January",
+    "More Information": "https://www.cmtedd.act.gov.au/communication/holidays",
+    "jurisdiction":"act"
+  },
+  {
+    "date":20200309,
+    "Holiday Name": "Canberra Day",
+    "Information": "Held on the second Monday of March each year in Canberra, to celebrate the naming ceremony of Australia capital which took place on 12 March 1913.",
+    "More Information": "https://www.cmtedd.act.gov.au/communication/holidays",
+    "jurisdiction":"act"
+  },
+  {
+    "date":20200410,
+    "Holiday Name": "Good Friday",
+    "Information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+    "More Information": "https://www.cmtedd.act.gov.au/communication/holidays",
+    "jurisdiction":"act"
+  },
+  {
+    "date":20200411,
+    "Holiday Name": "Easter Saturday",
+    "Information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+    "More Information": "https://www.cmtedd.act.gov.au/communication/holidays",
+    "jurisdiction":"act"
+  },
+  {
+    "date":20200412,
+    "Holiday Name": "Easter Sunday",
+    "Information": "Public Holiday as part of Easter.",
+    "More Information": "https://www.cmtedd.act.gov.au/communication/holidays",
+    "jurisdiction":"act"
+  },
+  {
+    "date":20200413,
+    "Holiday Name": "Easter Monday",
+    "Information": "Public Holiday as part of Easter.",
+    "More Information": "https://www.cmtedd.act.gov.au/communication/holidays",
+    "jurisdiction":"act"
+  },
+  {
+    "date":20200425,
+    "Holiday Name": "Anzac Day",
+    "Information": "Celebrated on the 25 April each year.",
+    "More Information": "https://www.cmtedd.act.gov.au/communication/holidays",
+    "jurisdiction":"act"
+  },
+  {
+    "date":20200601,
+    "Holiday Name": "Reconciliation Day",
+    "Information": "take place on the first Monday on or after 27 May each year, the anniversary of the 1967 referendum",
+    "More Information": "https://www.cmtedd.act.gov.au/communication/holidays",
+    "jurisdiction":"act"
+  },
+  {
+    "date":20200608,
+    "Holiday Name": "Queen's Birthday",
+    "Information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+    "More Information": "https://www.cmtedd.act.gov.au/communication/holidays",
+    "jurisdiction":"act"
+  },
+  {
+    "date":20201005,
+    "Holiday Name": "Labour Day",
+    "Information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+    "More Information": "https://www.cmtedd.act.gov.au/communication/holidays",
+    "jurisdiction":"act"
+  },
+  {
+    "date":20201225,
+    "Holiday Name": "Christmas Day",
+    "Information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+    "More Information": "https://www.cmtedd.act.gov.au/communication/holidays",
+    "jurisdiction":"act"
+  },
+  {
+    "date":20201228,
+    "Holiday Name": "Boxing Day",
+    "Information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+    "More Information": "https://www.cmtedd.act.gov.au/communication/holidays",
+    "jurisdiction":"act"
+  },
+  {
+    "date":20200101,
+    "Holiday Name": "New Year's Day",
+    "Information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+    "More Information": "https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-nsw",
+    "jurisdiction":"nsw"
+  },
+  {
+    "date":20200127,
+    "Holiday Name": "Australia Day",
+    "Information": "Always celebrated on 26 January",
+    "More Information": "https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-nsw",
+    "jurisdiction":"nsw"
+  },
+  {
+    "date":20200410,
+    "Holiday Name": "Good Friday",
+    "Information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+    "More Information": "https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-nsw",
+    "jurisdiction":"nsw"
+  },
+  {
+    "date":20200411,
+    "Holiday Name": "Easter Saturday",
+    "Information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+    "More Information": "https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-nsw",
+    "jurisdiction":"nsw"
+  },
+  {
+    "date":20200412,
+    "Holiday Name": "Easter Sunday",
+    "Information": "Public Holiday as part of Easter.",
+    "More Information": "https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-nsw",
+    "jurisdiction":"nsw"
+  },
+  {
+    "date":20200413,
+    "Holiday Name": "Easter Monday",
+    "Information": "Public Holiday as part of Easter.",
+    "More Information": "https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-nsw",
+    "jurisdiction":"nsw"
+  },
+  {
+    "date":20200425,
+    "Holiday Name": "Anzac Day",
+    "Information": "Celebrated on the 25 April each year.",
+    "More Information": "https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-nsw",
+    "jurisdiction":"nsw"
+  },
+  {
+    "date":20200610,
+    "Holiday Name": "Queen's Birthday",
+    "Information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+    "More Information": "https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-nsw",
+    "jurisdiction":"nsw"
+  },
+  {
+    "date":20200803,
+    "Holiday Name": "Bank Holiday",
+    "Information": "Applies to banks and certain financial institutions, per theÊRetail Trading Act 2008",
+    "More Information": "https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-nsw",
+    "jurisdiction":"nsw"
+  },
+  {
+    "date":20201005,
+    "Holiday Name": "Labour Day",
+    "Information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+    "More Information": "https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-nsw",
+    "jurisdiction":"nsw"
+  },
+  {
+    "date":20201225,
+    "Holiday Name": "Christmas Day",
+    "Information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+    "More Information": "https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-nsw",
+    "jurisdiction":"nsw"
+  },
+  {
+    "date":20201226,
+    "Holiday Name": "Boxing Day",
+    "Information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+    "More Information": "https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-nsw",
+    "jurisdiction":"nsw"
+  },
+  {
+    "date":20201228,
+    "Holiday Name": "Boxing Day (Additional day)",
+    "Information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+    "More Information": "https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-nsw",
+    "jurisdiction":"nsw"
+  },
+  {
+    "date":20200101,
+    "Holiday Name": "New Year's Day",
+    "Information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+    "More Information": "https://nt.gov.au/nt-public-holidays",
+    "jurisdiction":"nt"
+  },
+  {
+    "date":20200127,
+    "Holiday Name": "Australia Day",
+    "Information": "Always celebrated on 26 January",
+    "More Information": "https://nt.gov.au/nt-public-holidays",
+    "jurisdiction":"nt"
+  },
+  {
+    "date":20200410,
+    "Holiday Name": "Good Friday",
+    "Information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+    "More Information": "https://nt.gov.au/nt-public-holidays",
+    "jurisdiction":"nt"
+  },
+  {
+    "date":20200411,
+    "Holiday Name": "Saturday before Easter Sunday",
+    "Information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+    "More Information": "https://nt.gov.au/nt-public-holidays",
+    "jurisdiction":"nt"
+  },
+  {
+    "date":20200413,
+    "Holiday Name": "Easter Monday",
+    "Information": "Public Holiday as part of Easter.",
+    "More Information": "https://nt.gov.au/nt-public-holidays",
+    "jurisdiction":"nt"
+  },
+  {
+    "date":20200425,
+    "Holiday Name": "Anzac Day",
+    "Information": "Celebrated on the 25 April each year.",
+    "More Information": "https://nt.gov.au/nt-public-holidays",
+    "jurisdiction":"nt"
+  },
+  {
+    "date":20200504,
+    "Holiday Name": "May Day",
+    "Information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+    "More Information": "https://nt.gov.au/nt-public-holidays",
+    "jurisdiction":"nt"
+  },
+  {
+    "date":20200608,
+    "Holiday Name": "Queen's Birthday",
+    "Information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+    "More Information": "https://nt.gov.au/nt-public-holidays",
+    "jurisdiction":"nt"
+  },
+  {
+    "date":20200803,
+    "Holiday Name": "Picnic Day",
+    "Information": "Observed on the first Monday of August each year and is clebrated with a horse race, railway picnic and other social outings",
+    "More Information": "https://nt.gov.au/nt-public-holidays",
+    "jurisdiction":"nt"
+  },
+  {
+    "date":20201224,
+    "Holiday Name": "Christmas Eve",
+    "Information": "Part-day public holiday from 7pm-12 midnight",
+    "More Information": "https://nt.gov.au/nt-public-holidays",
+    "jurisdiction":"nt"
+  },
+  {
+    "date":20201225,
+    "Holiday Name": "Christmas Day",
+    "Information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+    "More Information": "https://nt.gov.au/nt-public-holidays",
+    "jurisdiction":"nt"
+  },
+  {
+    "date":20201228,
+    "Holiday Name": "Boxing Day",
+    "Information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+    "More Information": "https://nt.gov.au/nt-public-holidays",
+    "jurisdiction":"nt"
+  },
+  {
+    "date":20201231,
+    "Holiday Name": "New Year's Eve",
+    "Information": "Part-day public holiday from 7pm-12 midnight",
+    "More Information": "https://nt.gov.au/nt-public-holidays",
+    "jurisdiction":"nt"
+  },
+  {
+    "date":20200101,
+    "Holiday Name": "New Year's Day",
+    "Information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+    "More Information": "https://www.qld.gov.au/recreation/travel/holidays/public",
+    "jurisdiction":"qld"
+  },
+  {
+    "date":20200127,
+    "Holiday Name": "Australia Day",
+    "Information": "Always celebrated on 26 January",
+    "More Information": "https://www.qld.gov.au/recreation/travel/holidays/public",
+    "jurisdiction":"qld"
+  },
+  {
+    "date":20200410,
+    "Holiday Name": "Good Friday",
+    "Information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+    "More Information": "https://www.qld.gov.au/recreation/travel/holidays/public",
+    "jurisdiction":"qld"
+  },
+  {
+    "date":20200411,
+    "Holiday Name": "Easter Saturday",
+    "Information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+    "More Information": "https://www.qld.gov.au/recreation/travel/holidays/public",
+    "jurisdiction":"qld"
+  },
+  {
+    "date":20200412,
+    "Holiday Name": "Easter Sunday",
+    "Information": "Public Holiday as part of Easter.",
+    "More Information": "https://www.qld.gov.au/recreation/travel/holidays/public",
+    "jurisdiction":"qld"
+  },
+  {
+    "date":20200413,
+    "Holiday Name": "Easter Monday",
+    "Information": "Public Holiday as part of Easter.",
+    "More Information": "https://www.qld.gov.au/recreation/travel/holidays/public",
+    "jurisdiction":"qld"
+  },
+  {
+    "date":20200425,
+    "Holiday Name": "Anzac Day",
+    "Information": "Celebrated on the 25 April each year.",
+    "More Information": "https://www.qld.gov.au/recreation/travel/holidays/public",
+    "jurisdiction":"qld"
+  },
+  {
+    "date":20200504,
+    "Holiday Name": "Labour Day",
+    "Information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+    "More Information": "https://www.qld.gov.au/recreation/travel/holidays/public",
+    "jurisdiction":"qld"
+  },
+  {
+    "date":20201005,
+    "Holiday Name": "Queen's Birthday",
+    "Information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+    "More Information": "https://www.qld.gov.au/recreation/travel/holidays/public",
+    "jurisdiction":"qld"
+  },
+  {
+    "date":20201225,
+    "Holiday Name": "Christmas Day",
+    "Information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+    "More Information": "https://www.qld.gov.au/recreation/travel/holidays/public",
+    "jurisdiction":"qld"
+  },
+  {
+    "date":20201226,
+    "Holiday Name": "Boxing Day",
+    "Information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+    "More Information": "https://www.qld.gov.au/recreation/travel/holidays/public",
+    "jurisdiction":"qld"
+  },
+  {
+    "date":20201228,
+    "Holiday Name": "Boxing Day (Additional day)",
+    "Information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+    "More Information": "https://www.qld.gov.au/recreation/travel/holidays/public",
+    "jurisdiction":"qld"
+  },
+  {
+    "date":20200101,
+    "Holiday Name": "New Year's Day",
+    "Information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+    "More Information": "https://www.safework.sa.gov.au/law-compliance/laws-regulations/public-holidays",
+    "jurisdiction":"sa"
+  },
+  {
+    "date":20200126,
+    "Holiday Name": "Australia Day",
+    "Information": "Always celebrated on 26 January",
+    "More Information": "https://www.safework.sa.gov.au/law-compliance/laws-regulations/public-holidays",
+    "jurisdiction":"sa"
+  },
+  {
+    "date":20200127,
+    "Holiday Name": "Australia Day (Additional day)",
+    "Information": "Always celebrated on 26 January",
+    "More Information": "https://www.safework.sa.gov.au/law-compliance/laws-regulations/public-holidays",
+    "jurisdiction":"sa"
+  },
+  {
+    "date":20200309,
+    "Holiday Name": "Adelaide Cup Day",
+    "Information": "The Holidays Act 1910 provides for the third Monday in May to be a public holiday. ch through the issuing of a special Proclamation by the Governor.",
+    "More Information": "https://www.safework.sa.gov.au/law-compliance/laws-regulations/public-holidays",
+    "jurisdiction":"sa"
+  },
+  {
+    "date":20200410,
+    "Holiday Name": "Good Friday",
+    "Information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+    "More Information": "https://www.safework.sa.gov.au/law-compliance/laws-regulations/public-holidays",
+    "jurisdiction":"sa"
+  },
+  {
+    "date":20200411,
+    "Holiday Name": "Easter Saturday",
+    "Information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+    "More Information": "https://www.safework.sa.gov.au/law-compliance/laws-regulations/public-holidays",
+    "jurisdiction":"sa"
+  },
+  {
+    "date":20200413,
+    "Holiday Name": "Easter Monday",
+    "Information": "Public Holiday as part of Easter.",
+    "More Information": "https://www.safework.sa.gov.au/law-compliance/laws-regulations/public-holidays",
+    "jurisdiction":"sa"
+  },
+  {
+    "date":20200425,
+    "Holiday Name": "Anzac Day",
+    "Information": "Celebrated on the 25 April each year.",
+    "More Information": "https://www.safework.sa.gov.au/law-compliance/laws-regulations/public-holidays",
+    "jurisdiction":"sa"
+  },
+  {
+    "date":20200608,
+    "Holiday Name": "Queen's Birthday",
+    "Information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+    "More Information": "https://www.safework.sa.gov.au/law-compliance/laws-regulations/public-holidays",
+    "jurisdiction":"sa"
+  },
+  {
+    "date":20201005,
+    "Holiday Name": "Labour Day",
+    "Information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+    "More Information": "https://www.safework.sa.gov.au/law-compliance/laws-regulations/public-holidays",
+    "jurisdiction":"sa"
+  },
+  {
+    "date":20201224,
+    "Holiday Name": "Christmas Eve",
+    "Information": "Part-day public holiday from 7pm-12 midnight",
+    "More Information": "https://www.safework.sa.gov.au/law-compliance/laws-regulations/public-holidays",
+    "jurisdiction":"sa"
+  },
+  {
+    "date":20201225,
+    "Holiday Name": "Christmas Day",
+    "Information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+    "More Information": "https://www.safework.sa.gov.au/law-compliance/laws-regulations/public-holidays",
+    "jurisdiction":"sa"
+  },
+  {
+    "date":20201228,
+    "Holiday Name": "Proclamation Day",
+    "Information": "Occurs the day after Christmas Day.",
+    "More Information": "https://www.safework.sa.gov.au/law-compliance/laws-regulations/public-holidays",
+    "jurisdiction":"sa"
+  },
+  {
+    "date":20201231,
+    "Holiday Name": "New Year's Eve",
+    "Information": "Part-day public holiday from 7pm-12 midnight",
+    "More Information": "https://www.safework.sa.gov.au/law-compliance/laws-regulations/public-holidays",
+    "jurisdiction":"sa"
+  },
+  {
+    "date":20200101,
+    "Holiday Name": "New Year's Day",
+    "Information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+    "More Information": "https://worksafe.tas.gov.au/laws/public_holidays",
+    "jurisdiction":"tas"
+  },
+  {
+    "date":20200127,
+    "Holiday Name": "Australia Day",
+    "Information": "Always celebrated on 26 January",
+    "More Information": "https://worksafe.tas.gov.au/laws/public_holidays",
+    "jurisdiction":"tas"
+  },
+  {
+    "date":20200413,
+    "Holiday Name": "Eight Hours Day",
+    "Information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+    "More Information": "https://worksafe.tas.gov.au/laws/public_holidays",
+    "jurisdiction":"tas"
+  },
+  {
+    "date":20200410,
+    "Holiday Name": "Good Friday",
+    "Information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+    "More Information": "https://worksafe.tas.gov.au/laws/public_holidays",
+    "jurisdiction":"tas"
+  },
+  {
+    "date":20200413,
+    "Holiday Name": "Easter Monday",
+    "Information": "Public Holiday as part of Easter.",
+    "More Information": "https://worksafe.tas.gov.au/laws/public_holidays",
+    "jurisdiction":"tas"
+  },
+  {
+    "date":20200414,
+    "Holiday Name": "Easter Tuesday",
+    "Information": "Public Holiday currently observed by certain awards/agreements and the State Public Service",
+    "More Information": "https://worksafe.tas.gov.au/laws/public_holidays",
+    "jurisdiction":"tas"
+  },
+  {
+    "date":20200425,
+    "Holiday Name": "Anzac Day",
+    "Information": "Celebrated on the 25 April each year.",
+    "More Information": "https://worksafe.tas.gov.au/laws/public_holidays",
+    "jurisdiction":"tas"
+  },
+  {
+    "date":20200608,
+    "Holiday Name": "Queen's Birthday",
+    "Information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+    "More Information": "https://worksafe.tas.gov.au/laws/public_holidays",
+    "jurisdiction":"tas"
+  },
+  {
+    "date":20201225,
+    "Holiday Name": "Christmas Day",
+    "Information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+    "More Information": "https://worksafe.tas.gov.au/laws/public_holidays",
+    "jurisdiction":"tas"
+  },
+  {
+    "date":20201228,
+    "Holiday Name": "Boxing Day",
+    "Information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+    "More Information": "https://worksafe.tas.gov.au/laws/public_holidays",
+    "jurisdiction":"tas"
+  },
+  {
+    "date":20200101,
+    "Holiday Name": "New Year's Day",
+    "Information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+    "More Information": "https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2020",
+    "jurisdiction":"vic"
+  },
+  {
+    "date":20200127,
+    "Holiday Name": "Australia Day",
+    "Information": "Always celebrated on 26 January",
+    "More Information": "https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2021",
+    "jurisdiction":"vic"
+  },
+  {
+    "date":20200309,
+    "Holiday Name": "Labour Day",
+    "Information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+    "More Information": "https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2022",
+    "jurisdiction":"vic"
+  },
+  {
+    "date":20200410,
+    "Holiday Name": "Good Friday",
+    "Information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+    "More Information": "https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2023",
+    "jurisdiction":"vic"
+  },
+  {
+    "date":20200411,
+    "Holiday Name": "Saturday before Easter Sunday",
+    "Information": "Easter Saturday is between Good Friday and Easter Sunday in Australia.",
+    "More Information": "https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2024",
+    "jurisdiction":"vic"
+  },
+  {
+    "date":20200412,
+    "Holiday Name": "Easter Sunday",
+    "Information": "Public Holiday as part of Easter.",
+    "More Information": "https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2025",
+    "jurisdiction":"vic"
+  },
+  {
+    "date":20200413,
+    "Holiday Name": "Easter Monday",
+    "Information": "Public Holiday as part of Easter.",
+    "More Information": "https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2026",
+    "jurisdiction":"vic"
+  },
+  {
+    "date":20200425,
+    "Holiday Name": "Anzac Day",
+    "Information": "Celebrated on the 25 April each year.",
+    "More Information": "https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2027",
+    "jurisdiction":"vic"
+  },
+  {
+    "date":20200608,
+    "Holiday Name": "Queen's Birthday",
+    "Information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+    "More Information": "https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2028",
+    "jurisdiction":"vic"
+  },
+  {
+    "date":20200925,
+    "Holiday Name": "Friday before AFL Grand Final",
+    "Information": "Friday before the AFL Grand Final",
+    "More Information": "https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2029",
+    "jurisdiction":"vic"
+  },
+  {
+    "date":20201103,
+    "Holiday Name": "Melbourne Cup",
+    "Information": "All of Victoria unless alternate local holiday has been arranged by non-metro council.",
+    "More Information": "https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2030",
+    "jurisdiction":"vic"
+  },
+  {
+    "date":20201225,
+    "Holiday Name": "Christmas Day",
+    "Information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+    "More Information": "https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2031",
+    "jurisdiction":"vic"
+  },
+  {
+    "date":20201226,
+    "Holiday Name": "Boxing Day",
+    "Information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+    "More Information": "https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2032",
+    "jurisdiction":"vic"
+  },
+  {
+    "date":20201228,
+    "Holiday Name": "Boxing Day (Additional day)",
+    "Information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+    "More Information": "https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2032",
+    "jurisdiction":"vic"
+  },
+  {
+    "date":20200101,
+    "Holiday Name": "New Year's Day",
+    "Information": "New Year's Day is the first day of the calendar year and is celebrated each January 1st",
+    "More Information": "https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia",
+    "jurisdiction":"wa"
+  },
+  {
+    "date":20200127,
+    "Holiday Name": "Australia Day",
+    "Information": "Always celebrated on 26 January",
+    "More Information": "https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia",
+    "jurisdiction":"wa"
+  },
+  {
+    "date":20200302,
+    "Holiday Name": "Labour Day",
+    "Information": "Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",
+    "More Information": "https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia",
+    "jurisdiction":"wa"
+  },
+  {
+    "date":20200410,
+    "Holiday Name": "Good Friday",
+    "Information": "Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.",
+    "More Information": "https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia",
+    "jurisdiction":"wa"
+  },
+  {
+    "date":20200413,
+    "Holiday Name": "Easter Monday",
+    "Information": "Public Holiday as part of Easter.",
+    "More Information": "https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia",
+    "jurisdiction":"wa"
+  },
+  {
+    "date":20200425,
+    "Holiday Name": "Anzac Day",
+    "Information": "Celebrated on the 25 April each year.",
+    "More Information": "https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia",
+    "jurisdiction":"wa"
+  },
+  {
+    "date":20200427,
+    "Holiday Name": "Anzac Day",
+    "Information": "Celebrated on the 25 April each year.",
+    "More Information": "https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia",
+    "jurisdiction":"wa"
+  },
+  {
+    "date":20200601,
+    "Holiday Name": "Western Australia Day",
+    "Information": "Held on the first Monday in June each year and is a state holiday only.",
+    "More Information": "https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia",
+    "jurisdiction":"wa"
+  },
+  {
+    "date":20200928,
+    "Holiday Name": "Queen's Birthday",
+    "Information": "Celebrated on second Monday in June except in Western Australia and Queensland.",
+    "More Information": "https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia",
+    "jurisdiction":"wa"
+  },
+  {
+    "date":20201225,
+    "Holiday Name": "Christmas Day",
+    "Information": "Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.",
+    "More Information": "https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia",
+    "jurisdiction":"wa"
+  },
+  {
+    "date":20201226,
+    "Holiday Name": "Boxing Day",
+    "Information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+    "More Information": "https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia",
+    "jurisdiction":"wa"
+  },
+  {
+    "date":20201228,
+    "Holiday Name": "Boxing Day (Additional day)",
+    "Information": "Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.",
+    "More Information": "https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia",
+    "jurisdiction":"wa"
+  }
+]

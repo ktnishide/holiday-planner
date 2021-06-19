@@ -1,6 +1,12 @@
 <template>
   <div id="app">
-    <v-card class="pa-5" align="left" rounded="true" id="rounded-card">
+    <v-card
+      v-if="formatedDateIntervals.length > 0"
+      class="pa-5"
+      align="left"
+      rounded="true"
+      id="rounded-card"
+    >
       <v-list-item-group>
         <template v-for="(item, index) in formatedDateIntervals">
           <v-list-item two-line :key="index">
@@ -23,13 +29,13 @@
 
 <script lang="ts">
 import { Component, Vue } from "vue-property-decorator";
-import { mapGetters } from "vuex";
+import { Getter } from "vuex-class";
 
 @Component({
   name: "CardList",
-  computed: {
-    ...mapGetters(["formatedDateIntervals"]),
-  },
 })
-export default class CardList extends Vue {}
+export default class CardList extends Vue {
+  @Getter
+  public formatedDateIntervals!: string;
+}
 </script>

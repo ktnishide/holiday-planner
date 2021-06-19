@@ -5,6 +5,9 @@ module.exports = {
       scss: {
         additionalData: `@import "@/styles/variables.scss";`,
       },
-    }
-  }
+    },
+  },
+  configureWebpack: {
+    devtool: "source-map",
+  },
 };

@@ -11,27 +11,24 @@
             <h2>Holiday Planner</h2>
             <br />
             <p align="left">How long is your vacation?</p>
-            <v-form
-              ref="form"
-              lazy-validation
-              v-model="days"
-              @submit.prevent="onSubmit"
-            >
-              <p>
-                <v-text-field
-                  type="number"
-                  min="1"
-                  max="20"
-                  oninput="validity.valid||(value='');"
-                  v-model="days"
-                  label="Number of days"
-                  outlined
-                />
-                <v-btn id="btn" block color="primary" v-on:click="calcDates(1)"
-                  >Calculate Best Dates</v-btn
-                >
-              </p>
-            </v-form>
+            <p>
+              <v-text-field
+                type="number"
+                min="4"
+                max="20"
+                oninput="validity.valid||(value='');"
+                v-model="vacationDays"
+                label="Number of days"
+                outlined
+              />
+              <v-btn
+                id="btn"
+                block
+                color="primary"
+                v-on:click="calcDates(vacationDays)"
+                >Calculate Best Dates</v-btn
+              >
+            </p>
             <v-main>
               <CardList />
             </v-main>
@@ -45,22 +42,17 @@
 <script lang="ts">
 import { Component, Vue } from "vue-property-decorator";
 import CardList from "./CardList.vue";
-import { mapActions, mapState } from "vuex";
+import { Action } from "vuex-class";
 
 @Component({
   name: "HolidayPlanner",
-  // data: {
-  //   days: ,
-  // },
-  computed: {
-    ...mapState(["days"]),
-  },
-  methods: {
-    ...mapActions(["calcDates"]),
-  },
   components: {
     CardList,
   },
 })
-export default class HolidayPlanner extends Vue {}
+export default class HolidayPlanner extends Vue {
+  private vacationDays = "";
+  @Action
+  public calcDates!: (vacationDays: number) => void;
+}
 </script>
